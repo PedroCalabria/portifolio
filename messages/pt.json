@@ -1,0 +1,43 @@
+{
+    "nav": {
+        "about": "Sobre Mim",
+        "experience": "Experiência",
+        "projects": "Projetos",
+        "contact": "Contato",
+        "downloadCv": "Baixar CV"
+    },
+    "hero": {
+        "greeting": "Olá, sou Calábria",
+        "titleLine1": "Desenvolvedor",
+        "titleLine2": "Web Full Stack",
+        "description": "Desenvolvo aplicações web modernas e escaláveis utilizando React, Next.js, Node.js e muito mais. Transformando problemas complexos em soluções elegantes e intuitivas.",
+        "ctaContact": "Entre em Contato",
+        "ctaProjects": "Meus Projetos"
+    },
+    "about": {
+        "sectionTitle": "Sobre Mim",
+        "role": "Desenvolvedor Full Stack",
+        "bio": "Sou um desenvolvedor full stack apaixonado por criar aplicações web do zero. Gosto de transformar problemas complexos em soluções elegantes e intuitivas. Estou sempre buscando novas tecnologias para aprender e novos desafios para enfrentar.",
+        "skillsTitle": "Stack Técnica"
+    },
+    "experience": {
+        "sectionTitle": "Experiência",
+        "present": "Presente"
+    },
+    "projects": {
+        "sectionTitle": "Projetos",
+        "seeMore": "Ver Mais",
+        "liveLink": "Ver em Ação",
+        "repoLink": "Repositório",
+        "problemTitle": "Problema",
+        "toolsTitle": "Tecnologias",
+        "decisionsTitle": "Decisões Técnicas"
+    },
+    "contact": {
+        "sectionTitle": "Contato",
+        "description": "Vamos trabalhar juntos! Sinta-se à vontade para entrar em contato por qualquer um dos canais abaixo.",
+        "emailLabel": "Enviar um e-mail",
+        "linkedinLabel": "Conectar no LinkedIn",
+        "whatsappLabel": "Enviar mensagem no WhatsApp"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "nav": {
+        "about": "About Me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Contact",
+        "downloadCv": "Download CV"
+    },
+    "hero": {
+        "greeting": "Hi, I am Calábria",
+        "titleLine1": "Full Stack",
+        "titleLine2": "Web Developer",
+        "description": "I build modern, scalable web applications using React, Next.js, Node.js and more. Turning complex problems into elegant, user-friendly solutions.",
+        "ctaContact": "Contact Me",
+        "ctaProjects": "My Projects"
+    },
+    "about": {
+        "sectionTitle": "About Me",
+        "role": "Full Stack Developer",
+        "bio": "I'm a passionate full stack developer with experience building web applications from the ground up. I love turning complex problems into elegant, user-friendly solutions. Always looking for new technologies to learn and new challenges to tackle.",
+        "skillsTitle": "Tech Stack"
+    },
+    "experience": {
+        "sectionTitle": "Experience",
+        "present": "Present"
+    },
+    "projects": {
+        "sectionTitle": "Projects",
+        "seeMore": "See More",
+        "liveLink": "See it in action",
+        "repoLink": "Repository",
+        "problemTitle": "Problem",
+        "toolsTitle": "Technologies",
+        "decisionsTitle": "Technical Decisions"
+    },
+    "contact": {
+        "sectionTitle": "Contact Me",
+        "description": "Let's work together! Feel free to reach out through any of the channels below.",
+        "emailLabel": "Send an email",
+        "linkedinLabel": "Connect on LinkedIn",
+        "whatsappLabel": "Send a message on WhatsApp"
+    }
+}
